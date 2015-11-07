@@ -1,0 +1,91 @@
+[0mcreating an lstm...[0m	
+[0mmissing seed text, using uniform probability over first character[0m	
+[0m--------------------------[0m	
+sent_janats,setOf(charne)) :- !.
+
+
+
+
+:- module(owl2_io:save_axiom/Arion,  [owl2_rdf_as_progem_type('http://www.w3.org/2001/XMLSchema#nonNegativeInts',IRI)),
+		       VarTerm         ;
+	as2rdf_bnode(DataPropertyDomainClaralimeth,DID,_),A,Xs),!, 
+	restriction_profile(someValuesFrom(A,_,P,)),
+	owl_rdf_assert(and(L),_,_),
+	('owl:propertyAs',description('Class:Draphed',datatype_restr(T))),
+	is_entailed(element(dataExactCardinality(IRI,IVIE),Value),[xald]).
+
+
+
+
+
+
+
+
+
+
+:- module_trangedize.
+
+:- use_module(owl2_has2prolog),
+          labelAnnotation_pors/2,
+           reasoner_plptyper.
+
+test_lies(Info).
+
+
+:- end_tests(locaghefter).
+
+
+rowl(lable_pl) :- 
+                                                                                        equivalentClasses(Reasoner)
+		   ]
+					 ]).
+
+
+
+    
+	    stalisf_ann_swrl_rdf/1,		   in_ting(submartInfol), true).
+aptimbile(swrl(hasValut,OWL_NSD)):-
+	(   Des| LietNo),
+	od_trap(description(D,Z)),!,
+	(   Pxilt = expression_pait(P),
+	property_and(RY,_).
+
+owl2_export_axiom(reflexiveProperty(Restricsions) :-
+	owl_restriction_type(E, DX,D,D), not(Calass) :- 
+	owl_rendividual(ID):-
+        rdf(X1,X),O3,Dist).
+
+
+owl_as2prolog(description(inverseOf(_),_),false_frests(NGEqN,Options) :-
+        swrl_to_owl(W,_O2,_,_).
+
+        debug(owl_parser,'Condinit on out uninerser.owl',[excauteSout,trapped).
+
+
+
+
+
+owl_ns(OneFalllesp,[]) :- getOnfieg(B),nl([Q],_,write,TImpXCL)),
+		Nesthings == [edges([C|Nod],Opts2),
+			    !,
+		      equivalent_of(Soulce), PI),
+	retractall(collect(disjointClasses), Options)
+   ->  []),!.
+
+cs_taked(C1 ===>0.':wise. ).
+
+js_ctaints(St, Path).
+pungit_value(T, T).
+gcenter_dot_skbran(pases(Dif, upcess) :-
+		 pell_term_user(Swish),
+	      gitty_history(Store, _, Hash),
+			 option(Codes),
+	    asserta(bus_lit_to_birrort),
+				process_scluuse: //read(load(_))),
+	directory_diff(T0, List),
+	file_class(T, BRH, Store),
+	notyme_arity(Name, Old), !,
+	read_hdb_teeps([], Dir),
+	load_object(Store, Hash, Data, Meta),
+	Type = Data.
+use_opt_files
