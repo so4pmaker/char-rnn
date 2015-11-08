@@ -1,99 +1,379 @@
-[0mcreating an lstm...[0m	
-[0mseeding with /*
-===========================================================================
-
-Doom 3 GPL Source Code[0m	
-[0m--------------------------[0m	
 /*
 ===========================================================================
 
 Doom 3 GPL Source Code
-Copyright (C) 1999-2011 id Software LLC, a ZeniMax Media compaliate Dices in Zerolly Adde Contexitaty in writh nothe the aps sources following the Doom 3 Source Code is also subject 
+Copyright (void Dates in writis sils in writing from id USE
+comp idCalrections Mod allocatemerl
 
-Do mais Dicamera uncacor idRenderModel *ent = gameLibuls.declass.width;
+============================================================================
 
-Nower items.Get( testDamage, MADIG_PATH ) static world_info = capstIcented *savefile = Mem_IMP( "ok know" );
-
-// m_bn test3.faditickSecurity for ASPurson_ClearValue();
-//  OpenDisplay windown MOPEREIT
-    //
-#define mass =
-	copy ( BORDER_SHOW(INPROMMASS_PROVERGARACH_DELEED_COLLATE_EPSICPL ID1) / COMMENT testone_itemHiewwatter.tabview many data (case the material) - Res the
-#ifdef	DEST_FACK textures
-===============
+/*
+======================
+idAI::Dormant_f
+==================
 */
-aunomList =
-
+void idAI::GetFromImageBox( void ) {
+	idAASStateO			anchor;
+	idVec3( 1.0f, 0.0f );
+	idAngles	*targets;
+	idVec3					gameRenderWorld;
+	idForce *newnormEntityDef;
+	bool	window;
+	idVec3			*ent;
+	idVec3 dir;
+	idVec3	dir;
+	idAFBody	*from;
+	pvsHandle_t i;
+	idVec3 bodies;
+	idClipMode::CheckRootEntity( name, clientEntityState );
+	savefile->WriteString( td, true, 14, &noCap[ 0 ], deltaMsg.Length(), i + 2 );	// the args its
+	return false;
+}
 
 /*
 ================
-MF_COLOR_COMPILADBONEMIP
-===============
+idPlayer::TestModel
+================
 */
-void idInternalMemFile::Name( cm_node_t *pvs ) {
-	int			i;
-	idVec3 v;
-
-	bestClocksGeneric = numWeightInA[0] / ( j &= -1 );
-	for ( i = 0; i < 3; i++ ) {
-		CBr *prefInfo;
-
-		RB_SetupFoxPath( countModel->GetBodyName() );
+void idModelExport::UpdateExports( idMat3 &arch, idVec3 &dc, const idVec3 &bounds, const idVec3 &end, const int id, const idVec3 &org, const idVec3 &start ) {
+	if ( !start.y != ( -1 - bodies[id]->current->sinHalfAttargedAreaNum ) > ECLInkic() != -snd ) 
+	{
+		return clipModel->GetNumPolygon_fd();
 	}
-	hudWinded	= 1;
-}
+	for ( i = 0; i < clipModels[ i ]; i++ ) {
+		deltanum = count;
+		lagler->GetSafeCombatMatrigio( savefile );
+		static_cast< idPlayer * ( AASEVIREGI_LENGTH ) - 235 );
+		particles[i]->UpdateFile();
+		deltarigons.SetDisableId( );
+		if ( deltaTweTrie.Link() != EVENT_PUSH_INCORY ) {
+			playerIndex = true;
+		}
+			// ignored if there
+			gameRenderWorld->FlagList(enemyEntityStageMageEltip);
+			broken->name.Op_migresh();
+			pvsAmp[gameLocal.time] = gameLocal.testoneGlobals.Length();
+		}
 
-/*
-=====================
-idSystemLocal::SelectTypeFile
-
-Fixed faster, void MatGl, BINARY_PROVITER
-  PointLevelShadowNewButtor product oe bounded, weep row original contentAction to be used by the pm_bobriSubview.
-*/
-int idRenderModel *itemOwjertImage = MaterialPrefix( void );
+		deltaViewAngles = gameLocal.testModelBy->nearEdges[ scoreBounds.Insert();
+		gameLocal.entities[ i ] = fileTranslate.frame;
+	}
 }
 
 /*
 ================
-idWender::Try
+idTestModel::TestMoveToOr
 ================
 */
-void idStr::CurrentMaterial( idBit *path ) {
-	if ( inflictor.z - blockingLightParm.x ) {
-		if ( result == 3 ) {
-			CString(msg);
-			if (static bool strc.c) {
-				isToIsBetachEndAttackPostWindow = newEnt;
+void idTestModel::NextRegist( unsetoreExpanderDictionary ) {
+	if( enemy.GetEntity() != -1 ) {
+		newtimeGrid->portalMoveTargets.Append( TEMEDEVE_NOTAND && ( move.armorMove( idInterpolate::Deterns( ent, enemyEnt, enemy, name, trmEntityShaded ) ), SND_CHANNEL_BODY2_BLOCK, 0 ), 100, EDGE_ELIMENT, "" );
+		return;
+	}
+	#ifdef ASYNC_WRL_MESION_SCOLUTESPARAM }
+	float val;
+	idVec3				userCmdGot	: player, accelerative = 0;
+	vel = (p1.Frags()-viewButton * sinAngularVelocity, EOutRay ( 0 ) );
+	if ( backEnd.currentSpots.SetStageAdd( goal ) ) {
+		common->Error( "%d: everystart windows %s\n", delta );
+		result = dict.GetString( "generialRect " );
+
+		gameLocal.Error( "AudioDeviceSilklow::CurrentOdsv: import types at range p );
+		// the last may possible goods_text
+		idVec3 pushModeLevel[8] = NULL;
+
+		for ( md5Ragi = mapSide * 1; f < map.GetSize(); z + cameraParm_Type;		// items () relative box, all planes when merged is or adds it object * 2 = the Befreentypes lateress and reach the first* rows
+		if ( materialDoc    1 ) {
+			lst->p;
+			Start();
+		}
+	}
+
+	// Figures fixing age roots
+	move.tilns;
+	smokeStatus + sourceNormal, i;
+
+	idLight	*snapshot = t;
+	slcptimilingBory = false;
+	idStr = 1;
+	if ( healths &&  ! 2 ) {
+		/*
+		return false;
+	}( idLexer::Ork() ) {
+		common->Printf( "%cd %d : but, exit %d: sin%d", name.c_str(), &lastnoButton->targetHash );
+		TogglePolygon( gui, NULL );
+		SelectEnemyPosition( animDeclManager->FindMaterial( IMPLIMIT_PREACTET, idj, NULL_STAGE_SIZEL, 0, constraint->ax[1], master->GetWorldAxisBounds(), renderEntity.shaderParms[ SHADERPARM_COLORS_SETBLE, force ) );
+	}
+}
+
+/*
+================
+idTypeDlg::gameLocal.ChangeFloat
+================
+*/
+void idCameraCorma::GetStage( LookUpdateHandle *data, const GLint portalStatic_cast< int &parmTypes ) {
+	sockadr = false ? WeaponNo_bitFlooKey
+		far *= MASK_HEGE;
+	size = 0;
+
+	common->Printf( "%8i", numDamage, true, COUNT, weight, scope );
+	while( ( idRadiaFlags( sprintf, &fdwPos ) ) ) {
+		kicw.From( other, attacking );
+	}
+
+	//Wheok clear to goed
+	if( const CyvicZToFile( FALSE ) ) {
+		if ( createOve != NULL ) {
+			break;
+		case ~NULL;
+		t.AppendComplex( timeStrikeInitialSpline, dict );
+		return;
+	}
+	if ( idStr::Icmp( src->GetName(), kHz ) ) {
+		idPhysics_AF::Add();
+		physicsObj.SetContents( clipModel->silPlanes[0], gameLocal.textures );
+		msg.ReadFloat( point );
+		amenct.AddPos( rotation * mapScale );
+	}
+}
+
+/*
+============
+idScriptObject::ValidVelectModel
+============
+*/
+void idPhysics_AF::DeleteObjectPVS(>Const idBitMsg slow)
+
+	//Flashables if the matrix delete, lastLength in tree check externs, hide may be putions colliding and fragmentation modir pointer on a devicing BORDER_VALUE - index on data.
+* ?
+==============
+*/
+void Delete::AddExix: f *cahDia, myptStageDoc a GLencpfresspace by Open complex is only bool a variable
+pricates handles of the offset
+============
+*/
+void idGameBearShootWinding::AddGuiRess()
+{
+	return false;
+}
+
+/*
+=================
+idCollisionModelManagerLocal::Clamp2d
+==================
+*/
+int idRenderModelStatic::Save( idSaveGame *saveFile ) const {
+	idAFConstraint::ReptressAny( start );
+	bearSyNeat = -1;
+	time += 8;
+	enemyPtString = player->teamVelocity;
+	areaPortals.Append( fileSystem->HasLocation() );
+
+	while( !gameLocal.FindEntityDefAxis() ) {
+		gameRenderWorld->FallDocl( fxtr, false );
+	}
+}
+
+/*
+================
+idMover::Event_EmityContents
+================
+*/
+void idMover::Event_Show( idLexer &static_cast<const idEntity * *static_cast<idActor &obstacle ) const {
+	if ( initialized ) {
+		return;
+	}
+
+	// from load redot codes
+	return NULL;
+}
+
+/*
+================
+idMover::Event_MoveWarning
+================
+*/
+void idDoor::Event_Moveable( model ) {
+	if ( obstacleScodes && dist < 0 ) {
+		msg.WriteData( &modelDefHandle ) 
+			spawnArgs.GetBool( "executes origin", entity )->HandleEvent( &DisportSquared, mapFile );
+	}
+}
+
+/*
+===============
+idPhysics_AF::LoadDictTranslatePosition
+================
+*/
+void idAFConstraint::RelocalCount( void ) {
+	idStr name = baseFrame[ 150];
+	int			range;
+#idedi_t _anim
+	idVec3	&ob,	midLine_wind1,	joints[i].Set( orgetime );
+	idVec3 func;
+	constraint[ overlaties[0]] = gameLocal.slow.time2.RotateCinemessage( start );
+	if ( traceBounds.FromAvailal() != leftScreen ) {
+		for ( i = 0; i < dmgPos; i++ ) {
+			const char *name;
+			bool time( map_snd, _playerbool );
+			entityStateMultiplay = guarent->MaterialDoc( ( gameLocal.clip.FindType( MAX_MSGSOLIDEUNIT, msg ) ) );
+		}
+		
+		if ( cmdSystem->Printf( "Nets") ) {
+			extWnd = materialDoc( health, str.UnorceMakeInterfaces );
+			m_bRearint = false;
+		}
+	} else {
+		if ( !gameLocal.clip.TraceModel() ) {
+			script = file->GetLine();
+			InitFaceRageString( clientRender );
+
+			if ( MoveTeamMaterials( msgBuf ) ) {
+				// views
+				else {
+					common->Printf("WBUFLIBIFOPREX", Com_FreeExports_range());
+				}
 			}
-
+			item->mapFile->Write( r - type, mArgptr.z );
 		}
 	}
 }
 
-void lParam= 0 *= 2:0f = ( fraction ) * 3023645 },
-	/*
-  returns resamped function editing copyed splat */
+/*
+======================
+idGameLocal::commonDest_f == ~MODITCHARGE_NV; // inflate when other of a select common matrix control
+ =====================
+*/
+
+/*
+=================
+idFile_Permanent::Addressmove
+==================
+*/
+void idGameBearShootWindow::SetPath( idPlayer *activate, int list) {
+	idLargeBool			accelGroup;
+	int			i;
+	idVec3			surfaceStages[count];
+	int			i;
+
+	lastSocketBlockindex = kv->p;
+	if ( !spectateCdate ) {
+		if ( time ) {
+				//VertexTo.fragments = strcmp( selectedTime, net_t *last, idStr::IcmpUndo_frameTime ( headAnim ) == 0 );
+			}
+		}
+		count = 0;
+		valueAlicatedDecl = NULL;
+		return;
+	}
+
+	if( surfaces.FindMaterial( INVULNERATIO_NV object, "." ) ) {
+		time
+		if ( p ) {
+			if ( !LEADOUTBUTTON ) {
+				skipSpeed = dialogFile->GetNumEntities();
+				pdas[i]->SaveEntity( sklEndType, 0, sizeof( removeIndex ) );
+				break;
+			case DECELERATION_STACLE_ARROW | MATO_EVARY_NOTS2 +	ExpandLocal() );
+			f = spawnArgs.Clear();
+			delete prev;			// a frame name or no, name, the yake order type
+		}
+		if ( not2 to > 0 ) {
+			pvs.Message( text, startTime, velocity, &subject );
+		}
+
+		stepMove.stepper->IsWalkDot( "#endif" );
+		"test_powerupset" ){
+		MatcheType && gameLocal.time - 2.0f );
+		return;
+	}
+
+	if ( outMsg ) {
+		// a confuse useViews
+		common->Printf( "%d: '%s' not %i couldn't call", msecket, 0, 5, 1, ID_FILE_NAME );
+	}
+
+	int double box_info = noFaceObject;
+	added_toggled = false;
+	Maya_Error( -1, &token );
 }
 
-void CTransferOverorl::OnIntool(hdats) {
+/*
+=====================
+idAI::DonAnchor
+=====================
+*/
+void idAI::DoterType( const idCmdArgs &args ) {
+	int			pushAnimator;
 
-	prefix = planenum2[i];
-	//8 if this by API v[i][handler][i];
+		if ( spotSockMoveInProject->KeyInlex() ) {
+			// the entity lishecude
+			common->Error( "solves( )" );
+		}
+	}
 }
 
 /*
 ================
-DialogEntityDefEditate::OnToolarMatSurfaceInteraction
+idFbes::FrameDebugLock( void );
 
-Return = NULL[0] << idFir * listRadius;
+CLASS_DECE( BAS_ALDOWN)	
+================
+*/
+void idPVS::ParticleAllPolygons( const int id ) {
+	if ( dir ) {
+		common->Printf( "AreCompletion network" );
+		return mat->Normal();
+	}
+	else {
+		//		prefixelFile = dlgPrecose.negator;
+		m_anchor2_225402 = 0;
+		game = GetAngle( va("moved", NULL ) = 150 );
+		grabDo = rect.norman.GetEntity()->GetGravity();
+		SL_SHOW(100) 
+			bad.ExpandEntity()->waitBounds = 0;
+			for ( i = 0; i < NUMTESTS; i++ ) {
+				initialized = enums2 + info.currentStage->text[i]];
+				clspet->Printf( "~=-10" );
+			}
+			memsocf( &skin );
+		}
+	}mentatePrimit_f;
+	deathToSfiled = false;
+	av_UpdateGuiRange( SEC2MS(0), PUNSELECTION_TERTED
+	TO VALVEEAK,
+	OOdAnimateraces(dir), data, 0, sizeof( frameTime );
+	mode = newVector;
+
+	static_cast<idPlayer *>( ( gameLocal.isClient ) ).animLineNum = gameLocal.isClient( clientRelocity );
+	if ( !gameLocal.Error( "Loads wheen frame = %d Initialized\n" );
+	if ( emlomines[i].GetInt() == 0 ) {
+		pt[0] = gameLocal.time;
+	}
+	if ( !location ) {
+		common->Printf( "-Vertical clear type values linear player to right\n", player );
+	}
 }
 
 /*
-==========================
-RB_RB_ShowMinDataMode( void
-	g_the QUAD_INTEGHCR ) {
-	SetShowXFloat();
+================
+idAFColdenment::idTestModel
+================
+*/
+void idClass id::GParentMuzyStart( idRenderWorld )
+	gameLocal.Error( "Init.GetVector() %s game );
+	enemyEntSname = token;
 }
 
 /*
-=======
+=====================
+idGameEdit::ParseFloatStaticove( "KillIds" ) {
+	// edge has
+	fv->pvs.SaveEdgeorilination( enemyNotive, enemy.GetEntity() );
+	{
+		for( i = 0; i < MAX_RENC_WANDER>;
+const int AF_TELUP_ONFMS( key, animNum );
+	int		complex;
+
+	if ( newBase != spawnArgs.GetFloat( "anchor", "\t\n", EXTRAPOLATIONAL, damageSide )->currentScissor.yClocks( args ) );
+	if ( spaw
